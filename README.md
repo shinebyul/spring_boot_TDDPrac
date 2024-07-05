@@ -11,17 +11,17 @@ tdd 작성 연습
 - Java, Spring Boot, JPA
 
 
-- post service
+#### post service
 -   [x] create_success 
 -   [x] read_success
 -   [x] list_success 
 -   [ ] create_fail
 -   [ ] read_fail
 -   [ ] list_fail
-- member service
+#### member service
 -   [x] signup_success
 -   [ ] signup_fail
-- like service
+#### like service
 -   [ ] create_success
 -   [ ] create_fail
 -   [ ] delete_success
